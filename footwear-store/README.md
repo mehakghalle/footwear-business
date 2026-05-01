@@ -68,3 +68,32 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Footwear Business Website
+
+A full-stack footwear e-commerce website built with React, Django REST Framework, and SQLite.
+
+## Features
+
+- Men, Women, and Kids footwear sections
+- Product listing and details
+- Search and category filter
+- Add to cart
+- Quantity update
+- Checkout system
+- Order saving in database
+- Django Admin product management
+- Responsive design
+
+## Tech Stack
+
+Frontend: React  
+Backend: Django REST Framework  
+Database: SQLite  
+Admin: Django Admin  
+
+## Run Backend
+
+```bash
+cd backend
+python manage.py runserver
