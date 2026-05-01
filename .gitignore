@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+backend/db.sqlite3
+
+# React
+footwear-store/node_modules/
+footwear-store/build/
+
+# Env
+.venv/
+.env
